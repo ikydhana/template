@@ -4,6 +4,7 @@ html {
 
 body {
 	margin-bottom: 120px;
+	margin-top: 30px;
 }
 
 .jumbotron img {
@@ -51,3 +52,4 @@ footer p{
 footer p i {
 	color: white;
 }
+
