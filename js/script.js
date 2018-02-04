@@ -2,7 +2,7 @@
 $('.page-scroll').on('click', function(e){
 
 	// ambil isi href
-	var tujuan = $(this).attr('href');
+	var tujuan = $(this).attr('tujuan');
 	// tangkap elemen ybs
 	var elemenTujuan = $(tujuan);
 
